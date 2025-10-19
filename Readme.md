@@ -37,7 +37,7 @@ This project showcases a premium digital studio called **ALVY**, designed to hel
 
 ## 🌐 Live Demo
 
-🔗 [Click here to view live project]()
+🔗 [Click here to view live project](https://anvy-studio-using-html-scss.netlify.app/)
 
 ---
 
@@ -89,7 +89,7 @@ Studio/
 ### 1️⃣ Clone this repository
 
 ```bash
-git clone 
+git clone https://github.com/Dileep-kumawat/ANVY-studio-website-clone-using-html-and-scss.git
 ```
 
 ### 2️⃣ Open the project
